@@ -1,6 +1,6 @@
 # Decision reliability and physical recoverability of neural PDE surrogates
 
-[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21816610.svg)](https://doi.org/10.5281/zenodo.21816610)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21816610.svg)](https://zenodo.org/records/21816610)
 
 This repository contains the code used in the manuscript **Beyond prediction
 accuracy: decision reliability and physical recoverability of neural PDE
@@ -17,9 +17,8 @@ exceed normal GitHub file limits. The code expects that package at
 `external_data/`.
 
 The companion dataset, trained model weights, source data and protocol records
-are archived on Zenodo at
-[https://doi.org/10.5281/zenodo.21816610](https://doi.org/10.5281/zenodo.21816610)
-under the CC BY 4.0 license.
+are archived in [Zenodo record 21816610](https://zenodo.org/records/21816610)
+under the CC BY 4.0 license. Its DOI is `10.5281/zenodo.21816610`.
 
 ## Repository contents
 
@@ -146,8 +145,9 @@ details.
 
 ## Citation
 
-Please cite the accompanying article and the Zenodo data record at
-[https://doi.org/10.5281/zenodo.21816610](https://doi.org/10.5281/zenodo.21816610).
+Please cite the accompanying article and the
+[Zenodo data record](https://zenodo.org/records/21816610), DOI
+`10.5281/zenodo.21816610`.
 Machine-readable author, title and repository metadata are provided in
 `CITATION.cff`.
 
