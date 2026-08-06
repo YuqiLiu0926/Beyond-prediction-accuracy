@@ -136,12 +136,8 @@ details.
 
 ## Citation
 
-Please cite the accompanying article and data record. Machine-readable author
-and title metadata are provided in `CITATION.cff`. Add the final article DOI and
-data DOI to that file when they are assigned.
+
 
 ## License
 
-The authors must select and approve the code and data licenses before public
-release. Recommended options and the files that must be updated are listed in
-`LICENSE_SELECTION_REQUIRED.md`.
+
