@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environments and editors
+.venv/
+.idea/
+.vscode/
+*.code-workspace
+
+# Generated outputs
+outputs/
+logs/
+*.log
+
+# The separately archived data package
+external_data/
+data/
+*.pt
+*.pth
+*.npz
+*.xlsx
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
