@@ -3,7 +3,7 @@
 ## Required before creating the GitHub release
 
 - [ ] Select and add the approved code license.
-- [ ] Select the companion data license.
+- [x] License the companion dataset under CC BY 4.0 (6 August 2026).
 - [ ] Add the final data-record URL to the manuscript and `CITATION.cff`.
 - [ ] Relabel the README worksheet inside each Extended Data workbook using the
       checklist in the Source Data directory.

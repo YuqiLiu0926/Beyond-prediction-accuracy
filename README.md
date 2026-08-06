@@ -145,6 +145,6 @@ article DOI and data DOI to that file when they are assigned.
 
 ## License
 
-The authors must select and approve the code and data licenses before public
-release. Recommended options and the files that must be updated are listed in
+The companion dataset is licensed under CC BY 4.0. The authors must still
+select and approve a software license before creating the code release; see
 `LICENSE_SELECTION_REQUIRED.md`.

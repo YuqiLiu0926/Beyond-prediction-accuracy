@@ -35,15 +35,16 @@ Before publication:
 
 - select a code license and replace `LICENSE_SELECTION_REQUIRED.md` with the
   corresponding `LICENSE` file;
-- select a data license and update the companion data package;
+- confirm that the companion data package retains its approved CC BY 4.0
+  license;
 - complete all author names and ORCIDs in `CITATION.cff`;
 - replace repository and DOI placeholders in the manuscript only after the
   records exist;
 - rebuild and verify both SHA-256 manifests.
 
-MIT or BSD-3-Clause are common code licenses. CC BY 4.0 or CC0 are common data
-licenses. License selection requires approval from all rights holders and the
-authors' institution.
+MIT or BSD-3-Clause are common code licenses. Code-license selection requires
+approval from all rights holders and the authors' institution. The companion
+dataset uses CC BY 4.0.
 
 ## 2. Publish the code repository
 

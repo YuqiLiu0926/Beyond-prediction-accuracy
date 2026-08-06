@@ -1,4 +1,4 @@
-# License selection required before release
+# Code license selection required before release
 
 No license has been assigned automatically because the copyright holder and
 institutional obligations must be confirmed by the authors.
@@ -9,11 +9,10 @@ Before creating the archival software release:
 2. select an OSI-approved code license, commonly MIT or BSD-3-Clause for
    academic software;
 3. add the approved text as `LICENSE` and identify the copyright holder;
-4. select a data license, commonly CC BY 4.0 or CC0, for the companion archive;
-5. record both choices in the manuscript Code Availability and Data
-   Availability statements; and
-6. add the selected license identifiers to the GitHub and data-repository
-   metadata.
+4. record the selected code license and the companion dataset's CC BY 4.0
+   license in the manuscript availability statements; and
+5. add the code license identifier to the GitHub and software-archive metadata.
 
-Until these steps are completed, the staged files are prepared for review but
-do not grant public reuse rights.
+Until these steps are completed, the code files are prepared for review but do
+not grant public reuse rights. The separately archived dataset is licensed under
+CC BY 4.0.
