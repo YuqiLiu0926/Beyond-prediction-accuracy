@@ -7,6 +7,9 @@ decision-defining extrema and operator defects, measures finite-horizon
 recoverability, and tests continuation-preserving control in high-fidelity
 closed loops.
 
+The canonical source repository is
+https://github.com/YuqiLiu0926/Beyond-prediction-accuracy.
+
 The numerical data and trained weights are distributed separately because they
 exceed normal GitHub file limits. The code expects that package at
 `external_data/`.
@@ -136,8 +139,12 @@ details.
 
 ## Citation
 
-
+Please cite the accompanying article and data record. Machine-readable author,
+title and repository metadata are provided in `CITATION.cff`. Add the final
+article DOI and data DOI to that file when they are assigned.
 
 ## License
 
-
+The authors must select and approve the code and data licenses before public
+release. Recommended options and the files that must be updated are listed in
+`LICENSE_SELECTION_REQUIRED.md`.

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying article and archived data record."
+title: "Beyond prediction accuracy: decision reliability and physical recoverability of neural PDE surrogates"
+type: software
+version: 1.0.0
+date-released: 2026-08-06
+repository-code: "https://github.com/YuqiLiu0926/Beyond-prediction-accuracy"
+authors:
+  - family-names: Liu
+    given-names: Yuqi
+  - family-names: Cui
+    given-names: Jinghan
+  - family-names: Li
+    given-names: Dong
+  - family-names: Song
+    given-names: Chuanhe
+  - family-names: Sun
+    given-names: Yiming
+  - family-names: Yu
+    given-names: Haibin
+  - family-names: Zeng
+    given-names: Peng
+keywords:
+  - neural PDE surrogate
+  - decision reliability
+  - physical recoverability
+  - numerical certification
+  - model predictive control

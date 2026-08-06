@@ -41,7 +41,11 @@ def write_manifest(root: Path) -> int:
             }
         )
     with output.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["relative_path", "size_bytes", "sha256"])
+        writer = csv.DictWriter(
+            handle,
+            fieldnames=["relative_path", "size_bytes", "sha256"],
+            lineterminator="\n",
+        )
         writer.writeheader()
         writer.writerows(rows)
     return len(rows)
@@ -68,4 +72,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
