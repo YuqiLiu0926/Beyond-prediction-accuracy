@@ -1,10 +1,10 @@
-# Decision reliability and physical recoverability of neural PDE surrogates
+# Beyond prediction accuracy: decision reliability and physical recoverability in neural PDE optimization
 
 [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21816610.svg)](https://zenodo.org/records/21816610)
 
 This repository contains the code used in the manuscript **Beyond prediction
-accuracy: decision reliability and physical recoverability of neural PDE
-surrogates**. It evaluates learned PDE models after optimization, analyzes
+accuracy: decision reliability and physical recoverability in neural PDE
+optimization**. It evaluates learned PDE models after optimization, analyzes
 decision-defining extrema and operator defects, measures finite-horizon
 recoverability, and tests continuation-preserving control in high-fidelity
 closed loops.
